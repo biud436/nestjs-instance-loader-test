@@ -1,3 +1,5 @@
+![workflow](https://github.com/biud436/nestjs-instance-loader-test/actions/workflows/main.yml/badge.svg)
+
 # Introduction
 
 This project allows you to obtain and test the initialization order of modules.
